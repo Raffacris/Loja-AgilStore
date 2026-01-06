@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# Arquivos de ambiente
+.env
+
+# Logs
+*.log
+
+# Dados gerados pela aplicação
+data/products.json
+data/idCounter.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+Package.json 
+Package-lock.json
