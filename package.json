@@ -1,0 +1,25 @@
+{
+  "name": "loja-agilstore",
+  "version": "1.0.0",
+  "description": "A AgilStore é uma pequena loja de eletrônicos que recentemente expandiu seu catálogo de produtos para incluir uma variedade maior de itens, desde smartphones e laptops até acessórios como cabos, carregadores e fones de ouvido.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raffacris/Loja-AgilStore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Raffacris/Loja-AgilStore/issues"
+  },
+  "homepage": "https://github.com/Raffacris/Loja-AgilStore#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

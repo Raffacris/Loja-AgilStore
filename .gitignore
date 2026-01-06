@@ -7,13 +7,10 @@ node_modules/
 # Logs
 *.log
 
-# Dados gerados pela aplicação
+# Dados gerados pela aplicação (persistência local)
 data/products.json
 data/idCounter.json
 
 # Sistema operacional
 .DS_Store
 Thumbs.db
-
-Package.json 
-Package-lock.json
